@@ -89,10 +89,10 @@ __The GameStop graph:__
 <br>
 
 <h3> Insights: </h3>
-- The price was stable for years but saw a sharp spike in 2021. Upon further research this was due to the meme stock phenomenon rather than business growth.
+- The price was stable for years but saw a sharp spike in 2021. Upon further research this was due to the meme stock phenomenon rather than business growth. <br>
 - GameStop’s revenue is cyclical and does not show consistent long-term growth, indicating potential business struggles. Furthermore, the spikes in revenue only occur towards the end of the year, during holiday season. This suggest that the company generates its main income from holiday sales. <br>
 
 <h3> Final Verdict: </h3>
-
+<br>
 GameStop is a speculative play with high risk and uncertain future performance. Due to a many years of inconsistency, I would __not suggest to in invest in GameStop’s stock.__
 
