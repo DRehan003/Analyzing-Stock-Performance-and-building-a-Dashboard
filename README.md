@@ -79,7 +79,7 @@ __The Tesla graph:__
 
 <h3> Final Verdict: </h3>
 
-The share price and revenue both increase over time, which suggests that __Tesla’s stock is good for investment.__
+The share price and revenue both increase over time, which suggests that __Tesla’s stock is good to invest in.__
 <br>
 <br>
 <br>
@@ -93,6 +93,6 @@ __The GameStop graph:__
 - GameStop’s revenue is cyclical and does not show consistent long-term growth, indicating potential business struggles. Furthermore, the spikes in revenue only occur towards the end of the year, during holiday season. This suggest that the company generates its main income from holiday sales. <br>
 
 <h3> Final Verdict: </h3>
-<br>
-GameStop is a speculative play with high risk and uncertain future performance. Due to a many years of inconsistency, I would __not suggest to in invest in GameStop’s stock.__
+
+GameStop is a speculative play with high risk and uncertain future performance. Due to a many years of inconsistency, __GameStop’s stock is NOT good to invest in.__
 
